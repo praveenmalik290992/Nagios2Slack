@@ -16,3 +16,5 @@ Nagios notifications for Slack, with formatted messages :
 ( see examples in slack_commands.cfg, modify any paths as required)
 
 * Set up a new contact to use the new host and service notification commands.
+
+* Edit the SLACK_URL path in both the plugins files.
